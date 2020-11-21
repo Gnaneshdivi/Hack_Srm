@@ -1,6 +1,6 @@
 pragma solidity ^0.6.10;
 
-contract revacompany{
+contract SRMcompany{
     
     struct details{
         string companyName;
