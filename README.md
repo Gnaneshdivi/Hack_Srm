@@ -1,18 +1,16 @@
 
 <div align = 'center'>
-  <h1>REVA HACK</> 2020</h1>
+  <h1>HACK SRM</> 2020</h1>
 </div>
 
 
 <div align="center">
-  <h1>i$Plant</h1>
+  <h1>PlantPay</h1>
   <img src = 'Images\i_Plant_logo-.png' width = 250>
   <p>📈Increment savings💰💰, 📈Increment nature 🌱🌳</p>
 </div>
 
 
-Check out our amazing app by installing from here :
-https://drive.google.com/file/d/1X7iel4TnH43q4mMdTJ0XBDxvbwAdi1w6/view?usp=sharing
 
 # Inspiration 
 
@@ -22,9 +20,9 @@ Mother Earth 🌎 has constantly faced difficulties due to human activities😔.
 But with the busy modern lifestyle everyone is engrossed in 😫, negligible amount of people have time to plant a sapling and look after it as it grows. We wanted to tackle this problem by building a completely decentralized application 📁 which monitors everything 🧐.
 
 
-# How is I$Plant different?
+# How is PlantPay different?
 
-Unlike other sustainable development projects which are mostly non-profit 🤫, I$Plant has a unique concept of rewarding its users whenever they plant a tree with actual money🤑 .Users start out with zero streak count and their streak count increases based on the no.of trees the user is planting and taking care of.More the streaks, more the money!🔥We like to call it "Gamification of Nature"🎮🌻.
+Unlike other sustainable development projects which are mostly non-profit 🤫, PlantPay has a unique concept of rewarding its users whenever they plant a tree with actual money🤑 .Users start out with zero streak count and their streak count increases based on the no.of trees the user is planting and taking care of.More the streaks, more the money!🔥We like to call it "Gamification of Nature"🎮🌻.
 
 The users don't have to know about the trees they are going to plant.All they have to take a picture of the plant 📷 along with its leaves and the ML model does the job.It identifies the plant's family based on the pictures 🖼️ uploaded and the all the details are displayed.Its that simple !
 
@@ -44,21 +42,6 @@ The money generated from the surveys and will be further spent in the following 
 The app also includes a Machine learning based algorithm which classifies different plants based on their leaves so that users will not have the trouble to identify their plants and the family of the plant they want to grow.</br>
 We also tried to give the users a smooth UI experience 💚✨💚:
 
-<div align = 'center'>
-<img src = 'Images\Firstpage_iplant.png' height = 400>&nbsp; &nbsp; &nbsp;  <img src= 'Images\Froms_Iplant.png' height = 400>&nbsp; &nbsp; &nbsp;  <img src = 'Choice-1.png' height = 400>&nbsp; <img src = 'Images\Company form.png' height = 400>
-
-</div>
-
-</br>
-
-<div align = 'center'>
-<img src = 'Images\Nurture.jpg' height = 400>&nbsp; &nbsp; &nbsp;  <img src = 'Images\Preferred plants.jpg' height = 400>&nbsp; &nbsp; &nbsp;  <img src = 'Images\My plants.jpg' height = 400>&nbsp; &nbsp; &nbsp;  <img src = 'Images\Add a plant.jpg' height = 400>
-</br>
-</br>
-<p> Blockchain Integration
-</br>
-<img src = 'Images\blockchain.png' width = 1000 height =  600>
-</div>
 
 
 # Challenges we faced
