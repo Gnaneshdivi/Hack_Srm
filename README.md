@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <h1>i$Plant</h1>
+  <h1>PlantPay</h1>
   <img src = 'Images\i_Plant_logo-.png' width = 250>
   <p>📈Increment savings💰💰, 📈Increment nature 🌱🌳</p>
 </div>
