@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1X7iel4TnH43q4mMdTJ0XBDxvbwAdi1w6/view?usp=shari
 # Inspiration 
 
 
-Mother Earth 🌎 has constantly faced difficulties due to human activities😔. The world is evolving every day🔮, the growth in finance and technology 👨‍💻is revolutionary and so are the pollution levels. The carbon emission in cities is reaching new heights every day. As more and more industries are being set up🏭, larger areas of forests are being cleared up. Afforestation🌱 is the need of the hour⏰. We need it to tackle the global issues 🌐 humans👨 are facing. For example, global warming, soil erosion, pollution, the ecological imbalance is just some of the severe problems. We need measures like afforestation and reforestation to be practiced on a larger scale ⬆️.
+Mother Earth has constantly faced difficulties due to human activities😔. The world is evolving every day🔮, the growth in finance and technology is revolutionary and so are the pollution levels. The carbon emission in cities is reaching new heights every day. As more and more industries are being set up🏭, larger areas of forests are being cleared up. Afforestation is the need of the hour⏰. We need it to tackle the global issues humans👨 are facing. For example, global warming, soil erosion, pollution, the ecological imbalance is just some of the severe problems. We need measures like afforestation and reforestation to be practiced on a larger scale ⬆️.
 
 But with the busy modern lifestyle everyone is engrossed in 😫, negligible amount of people have time to plant a sapling and look after it as it grows. We wanted to tackle this problem by building a completely decentralized application 📁 which monitors everything 🧐.
 
@@ -31,10 +31,10 @@ The users don't have to know about the trees they are going to plant.All they ha
 
 
 # Problem it solves
-* Nurturing nature ( ◡́.◡̀)(^◡^ ): Simply planting the sapling 🌱 is not enough, we will be monitoring the well being of the plant too 🌳. Rewards will be given on the basis of the type of plant and its nurturing🔥.
-* Decentralised information🤫🔒: This helps in the accountability, improved traceability and transparency of the information. Further avoiding duplication of users for the sake of rewards.
+* Nurturing nature ( ◡́.◡̀)(^◡^ ): Simply planting the sapling 🌱 is not enough, we will be monitoring the well being of the plant too 🌳. Rewards will be given on the basis of the type of plant and its nurturing.
+* Decentralised information 🔒: This helps in the accountability, improved traceability and transparency of the information. Further avoiding duplication of users for the sake of rewards.
 * Survey for statistical data📈: The information will not be distorted and the maintenance cost will be low.Data is provided to low-investment data science based start-ups and companies📝.
-* Identification of unknown plants 🔎: A machine learning model🖥️ is included which identifies the family and species of different plants based on their leaves.
+* Identification of unknown plants 🔎: A machine learning model is included which identifies the family and species of different plants based on their leaves.
 
 # Approach
 The working of the application 📱📁 deals with the informationwhich will be stored in Ethereum blockchain ₿. The app design will be useful for  monitoring and analysing the plant data. It will also act as the interface for the extraction of data📊.There are optional survey forms included in the app which requires the user to fill in some general information.
