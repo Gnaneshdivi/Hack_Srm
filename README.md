@@ -42,6 +42,12 @@ The money generated from the surveys and will be further spent in the following 
 The app also includes a Machine learning based algorithm which classifies different plants based on their leaves so that users will not have the trouble to identify their plants and the family of the plant they want to grow.</br>
 We also tried to give the users a smooth UI experience 💚✨💚:
 
+<div align = 'center'>
+<img src = 'Images\App Screenshots\PlantPay.jpg' height = 400>&nbsp; &nbsp; &nbsp;  <img src = 'Images\App Screenshots\Company Induvidual.jpg' height = 400>&nbsp; &nbsp; &nbsp;  <img src = 'Images\App Screenshots\Company form.jpg' height = 400>&nbsp; &nbsp; &nbsp; </br></br> <img src = 'Images\Add a plant.jpg' height = 400> &nbsp; &nbsp; &nbsp; <img src = 'Images\App Screenshots\Preferred plants.jpg' height = 400>&nbsp; &nbsp; &nbsp; <img src = 'Images\App Screenshots\Streak count.jpg' height = 400>&nbsp; &nbsp; &nbsp; 
+
+
+</div>
+</br></br>
 
 
 # Challenges we faced
