@@ -1,6 +1,6 @@
 
 <div align = 'center'>
-  <h1>REVA HACK</> 2020</h1>
+  <h1>Hack SRM 3.0</> 2020</h1>
 </div>
 
 
@@ -22,7 +22,7 @@ Mother Earth 🌎 has constantly faced difficulties due to human activities😔.
 But with the busy modern lifestyle everyone is engrossed in 😫, negligible amount of people have time to plant a sapling and look after it as it grows. We wanted to tackle this problem by building a completely decentralized application 📁 which monitors everything 🧐.
 
 
-# How is I$Plant different?
+# How is PlantPay different?
 
 Unlike other sustainable development projects which are mostly non-profit 🤫, I$Plant has a unique concept of rewarding its users whenever they plant a tree with actual money🤑 .Users start out with zero streak count and their streak count increases based on the no.of trees the user is planting and taking care of.More the streaks, more the money!🔥We like to call it "Gamification of Nature"🎮🌻.
 
@@ -79,7 +79,6 @@ We also tried to give the users a smooth UI experience 💚✨💚:
 ### Technologies used 💻: 
 
 Python3, Open CV, Tensorflow lite, Keras, Blockchain, Ethereum, Matic, Flutter, Dart
-
 
 
 ## Team Binary :
