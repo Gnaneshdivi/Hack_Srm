@@ -5,6 +5,9 @@ import 'dash.dart';
 import 'menu.dart';
 
 class Dashboard extends StatefulWidget {
+  final type;
+
+  const Dashboard({Key key, this.type}) : super(key: key);
   @override
   _DashboardState createState() => _DashboardState();
 }
@@ -20,7 +23,7 @@ class _DashboardState extends State<Dashboard> {
     });
   }
 
-  String title = "i\$plant";
+  String title = "PlantPay";
   @override
   Widget build(BuildContext context) {
     GlobalKey<SliderMenuContainerState> _key =
@@ -36,24 +39,24 @@ class _DashboardState extends State<Dashboard> {
           appBarHeight: 60,
           title: RichText(
             text: TextSpan(
-                text: 'i',
+                text: '',
                 style: TextStyle(
                     fontSize: 30,
                     fontWeight: FontWeight.w700,
                     color: Colors.black),
                 children: <TextSpan>[
                   TextSpan(
-                      text: '\$',
-                      style: TextStyle(
-                          fontSize: 35,
-                          fontWeight: FontWeight.bold,
-                          color: Colors.white70)),
-                  TextSpan(
-                      text: 'plant',
+                      text: 'Plant',
                       style: TextStyle(
                           fontSize: 30,
                           fontWeight: FontWeight.w700,
                           color: Colors.black)),
+                  TextSpan(
+                      text: 'Pay',
+                      style: TextStyle(
+                          fontSize: 30,
+                          fontWeight: FontWeight.bold,
+                          color: Colors.white70)),
                 ]),
           ),
           sliderMenu: MenuWidget(),

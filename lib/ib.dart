@@ -102,7 +102,9 @@ class _IbState extends State<Ib> {
   @override
   Widget build(BuildContext context) {
     return !busy
-        ? Dashboard()
+        ? Dashboard(
+            type: "u",
+          )
         : Center(
             child: CircularProgressIndicator(),
           );

@@ -471,7 +471,9 @@ class _ComFormState extends State<ComForm> {
                           Navigator.push(
                               context,
                               MaterialPageRoute(
-                                  builder: (context) => Dashboard()));
+                                  builder: (context) => Dashboard(
+                                        type: "c",
+                                      )));
                         }
                       },
                       child: Container(

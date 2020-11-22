@@ -233,7 +233,7 @@ class MainText extends StatelessWidget {
         ),
         SizedBox(height: 32),
         Text(
-          "Welcome to i\$plant",
+          "Welcome to PlantPay",
           textAlign: TextAlign.center,
           style: TextStyle(
             fontSize: MediaQuery.of(context).size.shortestSide > 400 ? 60 : 40,
