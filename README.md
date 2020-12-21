@@ -78,6 +78,6 @@ Python3, Open CV, Tensorflow lite, Keras, Blockchain, Ethereum, Matic, Flutter, 
 
 - [Divi Gnanesh](https://github.com/Gnaneshdivi)
 - [Naga Nithin](https://github.com/naganithin)
-- [G Lakshmi Sai Bhargavi](https://github.com/lakshmisaibhargavi)
-- [Prathyusha Guduru](https://github.com/Prathyusha-Guduru)
+- [G Lakshmi Sai          Bhargavi](https://github.com/lakshmisaibhargavi)
+- [Prathyusha              Guduru](https://github.com/Prathyusha-Guduru)
 
